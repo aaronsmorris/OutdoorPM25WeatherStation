@@ -1,3 +1,6 @@
+# Outdoor Weather with Temp and PM2.5- ESPHome Version
+
+<img src='/img/outdoorweather.jpeg' width='200'>
 Parts/Supplies
 
 Wemos D1 Mini ESP8266 module
@@ -14,3 +17,5 @@ https://www.printables.com/model/88215-stevenson-screen/files
 
 Print the case for the PMS5003 Sensor:
 https://www.printables.com/model/39560-outdoor-enclosure-for-pms5003-particulate-matter-s
+
+![ESPHome YAML](/pm25sensor_esphome.yaml)
